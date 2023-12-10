@@ -4,7 +4,7 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # Ignore the Bootstrap directory
-"D:\Projects\Blog\Blog\wwwroot\css"
+@"D:\Projects\Blog\Blog\wwwroot\css"
 
 # User-specific files
 *.rsuser
